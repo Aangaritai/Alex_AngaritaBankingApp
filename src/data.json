@@ -1,0 +1,66 @@
+[
+    {
+      "id": 0,
+      "username": "Jane Doe",
+      "uemail": "jane@me.com",
+      "password": "Access123",
+      "balance:": 100   
+    },
+    {
+      "id": 1,
+      "username": "Peter Parker",
+      "uemail": "peter@mit.edu",
+      "password": "Passcode321",
+      "balance:": 200
+    },
+    {
+      "id": 2,
+      "username": "Johm Smith",
+      "uemail": "johm@msn.com",
+      "password": "Letmein33",
+      "balance:": 500
+    },
+    {
+      "id": 3,
+      "username": "Luisa Lane",
+      "uemail": "luisam@msn.com",
+      "password": "Kissme69",
+      "balance:": 400
+    },
+    {
+      "id": 4,
+      "username": "Clark Kent",
+      "uemail": "clark@mit.edu",
+      "password": "Helpme911",
+      "balance:": 300
+    },
+    {
+      "id": 5,
+      "username": "Stacy Malibu",
+      "uemail": "stacy@mit.edu",
+      "password": "Dollmein123",
+      "balance:": 250
+    },
+    {
+      "id": 6,
+      "username": "Vernon Mathis",
+      "uemail": "vernon@mit.edu",
+      "password": "Ceoone12",
+      "balance:": 250
+    },
+    {
+      "id": 7,
+      "username": "Bob Thiele",
+      "uemail": "bobn@mit.edu",
+      "password": "Ceotwo123",
+      "balance:": 150
+    },
+    {
+      "id": 8,
+      "username": "Tony Start",
+      "uemail": "tony@mit.edu",
+      "password": "Flyone611",
+      "balance:": 180
+    }
+    
+]
